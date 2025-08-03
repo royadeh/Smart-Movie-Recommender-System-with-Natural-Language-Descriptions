@@ -3,11 +3,17 @@ A Discord-based movie recommender system using collaborative filtering (Surprise
 
 ## Skills Demonstrated
 Machine Learning with Surprise (Collaborative Filtering)
+
 Natural Language Generation using OpenAI GPT
+
 Python OOP & API Integration
+
 Asynchronous Programming with Discord.py
+
 Dataset Preprocessing and Model Training
-Bot Deployment Readiness
+
+Bot Deployment 
+
 ---
 
 ## Features
